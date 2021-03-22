@@ -26,9 +26,13 @@ This is the first weeks portfolio project for the coding school Epicodus. This s
 
 * * *
 
-## Link where to find my GitHub link
+## Where to find my GitHub link
 
 *https://github.com/Thisisjameswyn/PortfolioPage
+
+## Where to find my GitHub page
+
+*https://thisisjameswyn.github.io/PortfolioPage/
 
 
 ## License
