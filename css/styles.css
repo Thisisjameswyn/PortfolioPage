@@ -1,0 +1,45 @@
+.myPic{
+  height: 300px;
+  border: 6px solid #B55052;
+  float:left;
+}
+.intro{
+  box-sizing: border-box;
+  float:left;
+  scale: 100%;
+  padding: 20px;
+  width: 50%;
+  background-color: rgb(238, 238, 238);
+  margin: 30px;
+}
+
+.recipe{
+  border: 2px solid black;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 20%;
+  text-align: left;
+  float:right;
+}
+
+.recipe p{
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 200%;
+}
+
+.recipe img{
+  box-sizing: border-box;
+  width: 100%;
+}
+
+body{
+  background-color: #F0FFFE;
+  color:#55514C;
+}
+
+span{
+  text-decoration: underline;
+  color:crimson;
+}
+
